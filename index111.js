@@ -1,3 +1,3 @@
 <script type="text/javascript">  
- alert("Hello Java");  
+ alert("Hello Java stuents");  
 </script> 
